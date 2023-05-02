@@ -1,3 +1,5 @@
+Projeto realizado em colaboração com a alura com o objetivo de criar uma página web no qual é possível cadastrar cards com nome, cargo, foto e time. Após o cadastro, o card é exibido no campo de time correspondente.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
